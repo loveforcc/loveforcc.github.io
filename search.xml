@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>deployGithub</title>
+      <link href="/posts/983574d9.html"/>
+      <url>/posts/983574d9.html</url>
+      
+        <content type="html"><![CDATA[<p>在建设网站中如果想要部署网站通过域名进行访问，可以在GitHub在进行静态资源部署</p><p>测试本地图片访问</p><p>1.相对路径</p><p><img src="../images/2023-5-28/20230528170906.png" alt=""></p><p>2.使用外挂标签</p><h1 id="本地图片"><a href="#本地图片" class="headerlink" title="本地图片"></a>本地图片</h1><p><img src="../images/2023-5-28/20230528170906.png" alt="示例图片" style="zoom:50%;" /></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 建站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 建站 </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello-Hexo</title>
       <link href="/posts/59e5d8b8.html"/>
       <url>/posts/59e5d8b8.html</url>

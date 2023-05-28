@@ -6,7 +6,7 @@
   <link href="https://www.ccllx.top/atom.xml" rel="self"/>
   
   <link href="https://www.ccllx.top/"/>
-  <updated>2023-05-26T12:58:55.206Z</updated>
+  <updated>2023-05-28T09:17:15.426Z</updated>
   <id>https://www.ccllx.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>deployGithub</title>
+    <link href="https://www.ccllx.top/posts/983574d9.html"/>
+    <id>https://www.ccllx.top/posts/983574d9.html</id>
+    <published>2023-05-28T09:02:23.000Z</published>
+    <updated>2023-05-28T09:17:15.426Z</updated>
+    
+    <content type="html"><![CDATA[<p>在建设网站中如果想要部署网站通过域名进行访问，可以在GitHub在进行静态资源部署</p><p>测试本地图片访问</p><p>1.相对路径</p><p><img src="../images/2023-5-28/20230528170906.png" alt=""></p><p>2.使用外挂标签</p><h1 id="本地图片"><a href="#本地图片" class="headerlink" title="本地图片"></a>本地图片</h1><p><img src="../images/2023-5-28/20230528170906.png" alt="示例图片" style="zoom:50%;" /></p>]]></content>
+    
+    
+    <summary type="html">github上静态资源部署</summary>
+    
+    
+    
+    <category term="建站" scheme="https://www.ccllx.top/categories/%E5%BB%BA%E7%AB%99/"/>
+    
+    
+    <category term="建站" scheme="https://www.ccllx.top/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+    <category term="Hexo" scheme="https://www.ccllx.top/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello-Hexo</title>
